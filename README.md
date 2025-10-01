@@ -28,7 +28,7 @@ I initially built this template using PHP to manage common elements across pages
 
 ## Copyright & Attribution
 
-This template is provided by Jhincraft Works and created by @flaredmoko. You're free to use this website template as long as credit is given to Jhincraft Works or @flaredmoko. Even if you don't provide credit, I'd appreciate your support.
+This template is provided by Jhincraft Works and created by @flaredmoko. You're free to use this website template as long as credit is given to Jhincraft Works or @than-sanchez. Even if you don't provide credit, I'd appreciate your support.
 
 Feel free to modify the template to suit your needs. Your creativity and customization are encouraged!
 
